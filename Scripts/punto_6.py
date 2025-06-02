@@ -10,8 +10,9 @@ def es_primo(numero):
     return True
 
 
-i = 0
-while i <= 100:
-    if es_primo(i):
-        print(i)
-    i += 1
+if __name__ == "__main__":
+    i = 0
+    while i <= 100:
+        if es_primo(i):
+            print(i)
+        i += 1

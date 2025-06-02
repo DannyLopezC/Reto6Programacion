@@ -1,6 +1,7 @@
-i = float(input("ingrese un numero de 2 a 50: "))
-divisor = 1
-while divisor <= i:
-    if i % divisor == 0:
-        print(divisor)
-    divisor += 1
+if __name__ == "__main__":
+    i = float(input("ingrese un numero de 2 a 50: "))
+    divisor = 1
+    while divisor <= i:
+        if i % divisor == 0:
+            print(divisor)
+        divisor += 1
