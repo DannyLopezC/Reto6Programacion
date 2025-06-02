@@ -31,3 +31,17 @@ Este repositorio contiene la solución individual a los ejercicios propuestos en
 
 6. **Mostrar los números primos del 1 al 100 usando funciones**
    - Programa individual: `Scripts/punto_6.py`
+
+## Diagramas de flujo
+
+**Punto 1**
+
+![Flowchart1](https://github.com/DannyLopezC/Reto6Programacion/blob/main/Flowcharts/punto1.drawio.png)
+
+**Punto 2**
+
+![Flowchart1](https://github.com/DannyLopezC/Reto6Programacion/blob/main/Flowcharts/punto2.drawio.png)
+
+**Punto 3**
+
+![Flowchart1](https://github.com/DannyLopezC/Reto6Programacion/blob/main/Flowcharts/punto3.drawio.png)
